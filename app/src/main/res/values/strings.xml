@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Studentslibmanagemenet</string>
+
+    <string-array name="des">
+        <item>Click to select Designation</item>
+        <item>FACULTY</item>
+        <item>STUDENT</item>
+    </string-array>
+
+    <string name="login">Login</string>
+    <string name="welcome_to_the_College_library_management">Welcome to the College Library Management</string>
+    <string name="please_enter_the_details_to_login">Please enter the details to login</string>
+    <string name="click_here_to_register">Click here to register</string>
+
+</resources>

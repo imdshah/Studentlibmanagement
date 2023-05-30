@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441214612273",
+    "project_id": "studentlibmanagement",
+    "storage_bucket": "studentlibmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441214612273:android:26a26ea2feee2200073610",
+        "android_client_info": {
+          "package_name": "com.example.studentslibmanagemenet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3duS9cCZJUFmggY1usgJLugPDTrxLvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
